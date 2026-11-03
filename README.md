@@ -1,0 +1,1 @@
+# Portfólio — Henrique Silva\n\nSite pessoal feito com HTML, CSS e JavaScript puro.\n\n## Como executar\nAbra `index.html` no navegador. Não há dependências ou etapa de build.\n\n## Estrutura\n- `index.html`: conteúdo e estrutura.\n- `style.css`: identidade visual e responsividade.\n- `script.js`: menu mobile.\n# Portifolio
